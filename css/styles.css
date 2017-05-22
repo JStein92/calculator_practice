@@ -1,0 +1,43 @@
+.content{
+  border: 5px solid black;
+  padding: 10px 10px;
+  text-align: center;
+
+}
+input{
+  width: 90%;
+}
+.main{
+width: 300px;
+background-color: rgba(0,0,0,.1);
+
+}
+
+.col-xs-12{
+
+}
+.row a {
+background-color: silver;
+border: 2px solid black;
+font-size: 2em;
+padding: 10px 10px;
+color: black;
+}
+
+.row a, a:active, a:focus, a:link, a:visited{
+  color: black !important;
+    text-decoration: none !important;
+}
+.row a:hover{
+  background-color: grey;
+  color: black;
+}
+
+.row{
+
+  margin: 18px 18px;
+
+}
+.body{
+text-align: center;
+}
